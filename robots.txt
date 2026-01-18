@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jhonmalorne.github.io/herreriamaestro/sitemap.xml
